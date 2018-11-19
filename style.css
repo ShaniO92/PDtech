@@ -1,0 +1,25 @@
+/*Header*/
+header{
+    height: 1000px;
+    width:100;
+    background-image: url("macbook.jpeg");
+    background-size:cover;
+}
+
+/*Center everything*/
+
+header h1{
+    font-size: 80px
+    
+
+}
+
+header p{
+    font-style: italic
+}
+
+/*Section*/
+
+.services{
+    text-align: center;
+}
